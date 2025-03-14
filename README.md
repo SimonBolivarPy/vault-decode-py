@@ -15,7 +15,7 @@ Install the dependencies and devDependencies and start the server.
 python -m pip install pip
 python -m pip install --upgrade pip
 pip install pycryptodome
-pip install git+wltdecode
+pip install git+https://github.com/SimonBolivarPy/vault-decode-py.git
 ```
 ## Using Single Version
 **Decrypt hash by one password:**
