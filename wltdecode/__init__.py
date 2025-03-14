@@ -1,1 +1,1 @@
-
+from .decrypt import extensionWalletDecrypt
