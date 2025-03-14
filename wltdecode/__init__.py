@@ -1,1 +1,1 @@
-from .decrypt import extensionWalletDecrypt
+from .wltdecode import extensionWalletDecrypt
