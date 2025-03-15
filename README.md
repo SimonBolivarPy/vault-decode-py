@@ -1,5 +1,5 @@
 
-# wltdecode 1.0.0
+# wltdecode 1.0.1
 
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
@@ -24,6 +24,7 @@ pip install git+https://github.com/SimonBolivarPy/chbencode-py.git
 *default Metamask path in chrome*: 
 ###### C:\Users\root\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn
 p.s payload search from log file, ******.log,
+soon add function for this.
 
 ```python
 from wltdecode import extensionWalletDecrypt
