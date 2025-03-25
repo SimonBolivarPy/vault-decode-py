@@ -11,6 +11,9 @@ Simple Tools for decode crypto data, from extensions wallet, Metamask, Ronin, Br
 Python requires [Python.org](https://www.python.org/) v3,7+ to run.
 Install the dependencies and devDependencies and start the server.
 
+Manual how to extract vault data from .log file:
+https://github.com/SimonBolivarPy/search-encrypted-data
+
 ```sh
 python -m pip install pip
 python -m pip install --upgrade pip
