@@ -6,7 +6,9 @@
 
 Simple Tools for decode crypto data, from extensions wallet, Metamask, Ronin, Brawe, TronLink(old), etc.
 
-Youtube: https://www.youtube.com/watch?v=GesMRHi6xzA
+## Youtube: 
+
+[![HOW TO DECODE?](https://i.ytimg.com/vi/GesMRHi6xzA/hqdefault.jpg)](https://www.youtube.com/watch?v=GesMRHi6xzA "How to decode vault data?")
 
 ## Installation
 Python requires [Python.org](https://www.python.org/) v3,7+ to run.
